@@ -34,4 +34,4 @@ This tool captures the link directly from the game's log and automatically copie
 Copy and paste the following command into your Termux:
 
 ```bash
-git clone https://github.com/Bruh9980/Genshin_wish.git && cd REPO_NAME && chmod +x install.sh && ./install.sh
+git clone https://github.com/Bruh9980/Genshin_wish.git && cd Genshin_wish && chmod +x install.sh && ./install.sh
